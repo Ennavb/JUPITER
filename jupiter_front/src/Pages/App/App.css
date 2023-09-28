@@ -1,0 +1,8 @@
+body {
+    
+    background-image: url(/src/fondo.jpg);
+    background-size: cover; /* Ajusta el degradado para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita la repetición del degradado */
+    background-position: 0%;
+  /* Fija el degradado en su lugar mientras se desplaza el contenido */
+  }
