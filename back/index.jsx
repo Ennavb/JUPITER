@@ -39,7 +39,7 @@ app.post('/empresa',(req,res)=>{
                 res.status(201)
                 .send({
                     status: 201,
-                    menssage: 'empresa creada con exito',
+                    menssage: 'empresa creada',
                     data: result
                 })
             }
